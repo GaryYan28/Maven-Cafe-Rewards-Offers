@@ -24,9 +24,9 @@ We will also be analyzing the effectiveness of sending promotions through variou
 
 An interactive Tableau dashboard can be found [here](https://public.tableau.com/views/MavenRewards_17428486968610/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-SQL queries to inspect and perform quality checks here
+SQL queries to inspect and perform quality checks [here](https://github.com/GaryYan28/Maven-Cafe-Rewards-Offers/blob/main/Checks.sql)
 
-Targeted SQL queries to find info here
+Targeted SQL queries to find info [here](https://github.com/GaryYan28/Maven-Cafe-Rewards-Offers/blob/main/Insights.sql)
 
 ## Data Structure
 
@@ -34,7 +34,7 @@ The database structure as seen below consists of three tables: customers, events
 
 ![ERD](https://github.com/user-attachments/assets/335cd06a-4cc6-4d49-81f4-cdc82e24936f)
 
-SQL queries utilized to familiarize myself with the database as well as performing quality checks can be found here.
+SQL queries utilized to familiarize myself with the database as well as performing quality checks can be found [here](https://github.com/GaryYan28/Maven-Cafe-Rewards-Offers/blob/main/Checks.sql).
 
 ## Executive Summary
 
